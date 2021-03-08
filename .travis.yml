@@ -3,5 +3,5 @@ language: java
 deploy:
   provider: heroku
   api-key: $HEROKU_API_KEY
-  app: project4806
+  app: sysc4806-project-yukai
 dist: trusty
